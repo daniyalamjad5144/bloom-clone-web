@@ -1,0 +1,31 @@
+
+.extra{
+margin-right: 40px !important;
+}
+.btn{
+    color: white;
+    background-color: rgb(226, 86, 35);
+    font-weight: bolder;
+}
+.main1{
+    width: 30%;
+    height: 400px;
+}
+.main{
+    background-color: white;
+    display: flex;
+    flex-direction: row-reverse;
+    width: 100%;
+    justify-content: center;
+}
+
+.col{
+    padding: 0px 80px;
+}
+h1{
+    padding-left: 70px;
+}
+
+.nav{
+    padding: 0px 100px;
+}
